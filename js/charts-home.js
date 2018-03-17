@@ -43,7 +43,7 @@ $(document).ready(function () {
             labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
             datasets: [
                 {
-                    label: "Page Visitors",
+                    label: "",
                     fill: true,
                     lineTension: 0.2,
                     backgroundColor: "transparent",
@@ -66,7 +66,7 @@ $(document).ready(function () {
                     spanGaps: false
                 },
                 {
-                    label: "Page Views",
+                    label: "",
                     fill: true,
                     lineTension: 0.2,
                     backgroundColor: "transparent",
@@ -120,7 +120,7 @@ $(document).ready(function () {
             labels: ["January", "February", "March", "April", "May", "June", "July"],
             datasets: [
                 {
-                    label: "Data Set 1",
+                    label: "",
                     backgroundColor: [
                         "rgba(134, 77, 217, 0.57)",
                         "rgba(134, 77, 217, 0.57)",
@@ -152,7 +152,7 @@ $(document).ready(function () {
                     data: [65, 59, 80, 81, 56, 55, 40],
                 },
                 {
-                    label: "Data Set 2",
+                    label: "",
                     backgroundColor: [
                         "rgba(75, 75, 75, 0.7)",
                         "rgba(75, 75, 75, 0.7)",
@@ -222,7 +222,7 @@ $(document).ready(function () {
             labels: ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "L", "M", "N", "O", "P", "Q", "R", "S", "T"],
             datasets: [
                 {
-                    label: "Team Drills",
+                    label: "",
                     fill: true,
                     lineTension: 0.3,
                     backgroundColor: "transparent",
@@ -245,7 +245,7 @@ $(document).ready(function () {
                     spanGaps: false
                 },
                 {
-                    label: "Team Drills",
+                    label: "",
                     fill: true,
                     lineTension: 0.3,
                     backgroundColor: "transparent",
@@ -298,7 +298,7 @@ $(document).ready(function () {
             labels: ["January", "February", "March", "April", "May", "June", "July"],
             datasets: [
                 {
-                    label: "Data Set 1",
+                    label: "",
                     backgroundColor: [
                         "rgba(75, 75, 75, 0.7)",
                         "rgba(75, 75, 75, 0.7)",
@@ -330,7 +330,7 @@ $(document).ready(function () {
                     data: [65, 59, 80, 81, 56, 55, 40],
                 },
                 {
-                    label: "Data Set 2",
+                    label: "",
                     backgroundColor: [
                         "rgba(238, 139, 152, 0.7)",
                         "rgba(238, 139, 152, 0.7)",
